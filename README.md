@@ -6,6 +6,6 @@
 5. replace your config information into firebase.js
 6. start the server with npm start
 
-(important notice: if you refresh the page you will be logged out from the web app as i didnt used google api token to keep a user logged in)
+(important notice: if you refresh the page you will be logged out from the web app as i didnt used google api token to keep the user logged in)
 
 build with React js and firebase
