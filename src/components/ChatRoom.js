@@ -29,7 +29,8 @@ function ChatRoom() {
         .collection("rooms")
         .doc(roomId)
         .onSnapshot((snapshot) => setroomname(snapshot.data().name));
-      database
+      
+        database
         .collection("rooms")
         .doc(roomId)
         .collection("messages")
