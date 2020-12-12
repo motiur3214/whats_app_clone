@@ -1,0 +1,27 @@
+.chats {
+  display: flex;
+  padding:10px;
+  cursor:pointer;
+  border-bottom: 2px solid #f6f6f6;
+}
+
+.chats:hover {
+  background-color: #ebebeb;
+}
+
+.chats_info > h3 {
+  font-size: 13px;
+  margin-bottom: 1px;
+}
+.chats_info > p {
+  font-size: 12px;
+}
+
+.chats_info {
+  margin-left: 10px;
+}
+
+a{
+  text-decoration: none !important;
+  color: black;
+}

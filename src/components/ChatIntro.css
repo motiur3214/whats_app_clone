@@ -1,0 +1,17 @@
+.chat_intro{
+    flex:.70;
+    display: flex;
+    position: relative;
+    min-width: 60vw;
+    background-image: url('https://whatsappbrand.com/wp-content/themes/whatsapp-brc/images/WhatsApp_Logo_1.png?');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-bottom: 6.8px solid #5beb8b;
+}
+
+.chat_intro > span{
+position: absolute;
+bottom: 0;
+right: 0;
+}
