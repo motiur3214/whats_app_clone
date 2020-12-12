@@ -1,4 +1,4 @@
-#to use this clone please clone 
+#to use this wep app please use git clone command 
 1. run npm install 
 2. create your own firebase database and project
 3. firebase project name: Whats app clone
